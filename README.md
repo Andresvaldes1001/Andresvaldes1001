@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Andresvaldes1001
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...  Aprender lo más que pueda para poder dar lo mejor de mi.
 - 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... andresvaldes454@gmail.com
 
 <!---
